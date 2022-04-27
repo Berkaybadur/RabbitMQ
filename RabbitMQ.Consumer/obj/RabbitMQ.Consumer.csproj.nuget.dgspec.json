@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emre.akbas\\Desktop\\RabbitMQ.API\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj": {}
+    "C:\\Users\\BERKAY\\Source\\Repos\\RabbitMQ\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emre.akbas\\Desktop\\RabbitMQ.API\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj": {
+    "C:\\Users\\BERKAY\\Source\\Repos\\RabbitMQ\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emre.akbas\\Desktop\\RabbitMQ.API\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
+        "projectUniqueName": "C:\\Users\\BERKAY\\Source\\Repos\\RabbitMQ\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
         "projectName": "RabbitMQ.Consumer",
-        "projectPath": "C:\\Users\\emre.akbas\\Desktop\\RabbitMQ.API\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
-        "packagesPath": "C:\\Users\\emre.akbas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emre.akbas\\Desktop\\RabbitMQ.API\\RabbitMQ.Consumer\\obj\\",
+        "projectPath": "C:\\Users\\BERKAY\\Source\\Repos\\RabbitMQ\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
+        "packagesPath": "C:\\Users\\BERKAY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BERKAY\\Source\\Repos\\RabbitMQ\\RabbitMQ.Consumer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\emre.akbas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BERKAY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -31,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\emre.akbas\\Desktop\\RabbitMQ.API\\RabbitMQ.Utils\\RabbitMQ.Utils.csproj": {
-                "projectPath": "C:\\Users\\emre.akbas\\Desktop\\RabbitMQ.API\\RabbitMQ.Utils\\RabbitMQ.Utils.csproj"
+              "C:\\Users\\BERKAY\\Source\\Repos\\RabbitMQ\\RabbitMQ.Utils\\RabbitMQ.Utils.csproj": {
+                "projectPath": "C:\\Users\\BERKAY\\Source\\Repos\\RabbitMQ\\RabbitMQ.Utils\\RabbitMQ.Utils.csproj"
               }
             }
           }
@@ -71,24 +72,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\emre.akbas\\Desktop\\RabbitMQ.API\\RabbitMQ.Utils\\RabbitMQ.Utils.csproj": {
+    "C:\\Users\\BERKAY\\Source\\Repos\\RabbitMQ\\RabbitMQ.Utils\\RabbitMQ.Utils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emre.akbas\\Desktop\\RabbitMQ.API\\RabbitMQ.Utils\\RabbitMQ.Utils.csproj",
+        "projectUniqueName": "C:\\Users\\BERKAY\\Source\\Repos\\RabbitMQ\\RabbitMQ.Utils\\RabbitMQ.Utils.csproj",
         "projectName": "RabbitMQ.Utils",
-        "projectPath": "C:\\Users\\emre.akbas\\Desktop\\RabbitMQ.API\\RabbitMQ.Utils\\RabbitMQ.Utils.csproj",
-        "packagesPath": "C:\\Users\\emre.akbas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emre.akbas\\Desktop\\RabbitMQ.API\\RabbitMQ.Utils\\obj\\",
+        "projectPath": "C:\\Users\\BERKAY\\Source\\Repos\\RabbitMQ\\RabbitMQ.Utils\\RabbitMQ.Utils.csproj",
+        "packagesPath": "C:\\Users\\BERKAY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BERKAY\\Source\\Repos\\RabbitMQ\\RabbitMQ.Utils\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\emre.akbas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BERKAY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -150,7 +152,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
