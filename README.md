@@ -1,4 +1,4 @@
-# RabbitMQ.API
+# RabbitMQ
 
  - Run: `docker-compose up -d --build`
 
@@ -10,3 +10,6 @@
 | | Swagger|http://localhost:18001/swagger/index.html   |- |- |
 
 NOTE: Consume queue name **"Queue1", "Queue2", "Queue3"** 
+
+
+Will Be Held
